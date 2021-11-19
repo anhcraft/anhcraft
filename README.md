@@ -3,8 +3,7 @@
 - I'm Duy Anh, currently a student, gonna be 18 next year.
 - I'm preparing for the univerity entrance exam 📚
 - ☕ I love programming, and especially game-modding
-- I have been a Minecraft/Bukkit modder for 4 years 🙈
-- 🌱 I’m currently learning Rust as well as other technologies 
+- 🌱 I’m currently learning Rust
 - 📫 How to reach me: [@dyahtt](https://twitter.com/dyahtt) | Discord: duyanh#1646
 
 ### Stats
