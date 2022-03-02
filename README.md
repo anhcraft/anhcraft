@@ -2,8 +2,6 @@
 
 >- I'm Duy Anh, currently a student, gonna be 18 next year.
 >- I'm preparing for the univerity entrance exam
->- ☕ I love programming, especially game-modding
->- 🌱 I’m currently learning Rust
 >- 📫 How to reach me: duyanh#1646
 
 <div align="left">
