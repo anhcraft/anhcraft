@@ -1,8 +1,9 @@
 :cherry_blossom: Hi there 👋
 
-- I'm Duy Anh - a self-taught, workaholic software engineer
-- :triangular_flag_on_post:	My learning path: HTML (2014) → CSS → JS → PHP (2015) → Java (2016) → TS → Go (2021)
-- :zap: I develop web apps and Bukkit plugins for Minecraft modded servers
+- I'm Duy Anh - a self-taught, workaholic software developer
+- I'm going to be a CS student
+- :triangular_flag_on_post:	My learning path: HTML, CSS, JS (2014) → PHP (2015) → Java (2016) → TS → Go (2021)
+- :zap: I love developing web app and software
 - :envelope: How to reach me: contact@anhcraft.dev or duyanh#1646
 
 ## Favourite tech & tools
