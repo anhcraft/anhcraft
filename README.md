@@ -1,6 +1,6 @@
 :cherry_blossom: Hi there 👋
 
-- I'm Duy Anh - a self-taught, workaholic software developer
+- I'm Duy Anh - a self-taught software developer
 - I'm going to be a CS student
 - :triangular_flag_on_post:	My learning path: HTML, CSS, JS (2014) → PHP (2015) → Java (2016) → TS → Go (2021)
 - :zap: I love developing web app and software
