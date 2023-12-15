@@ -1,8 +1,8 @@
 ## :cherry_blossom: Hi there 👋
 
-- I'm Duy Anh - a self-taught backend engineer
-- 🌱 I'm studying at FPT University
-- 📄 I'm looking for a part-time job
+- I'm Duy Anh - a Software Engineer
+- 🌱 I'm studying at FPT University (expected graduation: `2026`)
+- 📄 I'm looking for an entry-level position
 
 <br>
 <div align="left">
@@ -11,6 +11,6 @@
 <br>
 
 <div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anhcraft&count_private=true&show_icons=true&theme=material-palenight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anhcraft&theme=material-palenight&layout=compact&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anhcraft&count_private=true&show_icons=true&theme=material-palenight&" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anhcraft&theme=material-palenight&layout=compact&langs_count=6" />
 </div>
