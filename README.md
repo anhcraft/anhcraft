@@ -1,8 +1,9 @@
 ## :cherry_blossom: Hi there 👋
 
-- I'm Duy Anh - a Software Engineer
+I'm Anh Duy - a Software Engineer focusing on Backend development
 - 🌱 I'm studying at FPT University (expected graduation: `2026`)
-- 📄 I'm looking for an entry-level position
+- :video_game: I've been a Minecraft modder / server owner since `2016`\
+  If you are looking for development service, contact me at Discord `#duyanh`
 
 <br>
 <div align="left">
