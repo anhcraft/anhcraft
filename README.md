@@ -1,6 +1,6 @@
 ## :cherry_blossom: Hi there 👋
 
-I'm Anh Duy - a Software Engineer focusing on Backend development
+I'm Anh Duy - a SWE student focusing on Backend development
 - 🌱 Contact me on Discord `#duyanh`
 
 <div align="left">
